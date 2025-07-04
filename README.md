@@ -42,7 +42,7 @@ This is a simple web project that allows you to turn a bulb on and off using a b
 
 ---
 
-📸 Screenshots
+## 📸 Technologies Used
 
 | Bulb OFF                                             | Bulb ON                                            |
 | ---------------------------------------------------- | -------------------------------------------------- |
