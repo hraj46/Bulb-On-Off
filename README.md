@@ -36,7 +36,7 @@ This is a simple web project that allows you to turn a bulb on and off using a b
    git clone https://github.com/your-username/bulb-toggle.git
 
 2. Navigate to the project directory:
-  ```cd bulb-toggle
+   cd bulb-toggle
 
 3. Open { index.html } in any browser.
 
